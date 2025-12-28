@@ -15,7 +15,6 @@ Yash Raturi,a data analyst focused on transforming raw data into actionable insi
 ![](https://nirzak-streak-stats.vercel.app/?user=Yash-Raturi19&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Raturi19&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-https://camo.githubusercontent.com/6165f9353f009b66a0cf9076b465047af4e8351e706e5bed2cd8d936676ee52a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457859545a315a5856324d444130636e56305a4464754e6d3175644446325a545a7a654730324e33646861325a78593264706233413465435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6247677363356d576f727966674b427831752f67697068792e676966
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
