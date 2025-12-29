@@ -22,7 +22,4 @@ Yash Raturi,a data analyst focused on transforming raw data into actionable insi
 [![](https://visitcount.itsvg.in/api?id=Yash-Raturi19&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
