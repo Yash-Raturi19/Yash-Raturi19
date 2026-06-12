@@ -1,7 +1,7 @@
 ## Animated Hello [](#--gifs-for-readme--)
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
-
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 # 💫 About Me:
 Yash Raturi,a data analyst focused on transforming raw data into actionable insights. Skilled in SQL, Excel, Power BI, and Python, I build dashboards, analyze trends, and support data-driven decisions.
 
